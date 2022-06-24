@@ -15,6 +15,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    
 }
 
 .topCenter{
@@ -49,6 +50,15 @@
     font-style: 15px;
     font-weight: 100;
     cursor: pointer;
+}
+
+.topListName{
+    margin-right: 20px;
+    margin-top: 15px;
+    font-style: 15px;
+    font-weight: 100;
+    text-decoration: none;
+    color: inherit;
 }
 
 .topSearchIcon{
